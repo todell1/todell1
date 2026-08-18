@@ -21,7 +21,7 @@ I am a Computer Science graduate with hands-on experience in hardware troublesho
 * Wrote PowerShell scripts to automate administrative workflows (user creation, group assignments, password resets).
 * Tested and resolved domain authentication, GPO propagation, and network configuration issues.
 
-#### 📁 [Cisco-Networking-PacketTracer-Labs](./)
+#### 📁 [Cisco-Networking-PacketTracer-Labs](https://github.com/todell1/cisco-packet-tracer-network-sims)
 * Simulated multi-router and switch topologies in Cisco Packet Tracer incorporating subnetting, VLANs, and ACLs.
 * Documented systematic network troubleshooting steps using standard CLI tools (`ping`, `traceroute`, `show` commands).
 
