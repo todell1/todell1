@@ -16,7 +16,7 @@ I am a Computer Science graduate with hands-on experience in hardware troublesho
 
 ### 🧪 Hands-On Labs & Repositories
 
-#### 📁 [Active-Directory-Powershell-Lab](https://github.com/todell1/active-directory-automation-lab)
+#### 📁 [Active-Directory-Powershell-Lab](https://github.com/todell1/Active-Directory-Powershell-Lab)
 * Configured a Windows Server domain controller in VirtualBox with Active Directory Domain Services (AD DS).
 * Wrote PowerShell scripts to automate administrative workflows (user creation, group assignments, password resets).
 * Tested and resolved domain authentication, GPO propagation, and network configuration issues.
